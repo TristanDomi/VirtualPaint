@@ -1,6 +1,8 @@
-# VirtualPaint
+# VirtualPaint 
 Virtual Ink with OpenCV in Python.
 Este proyecto utiliza Computer Vision para transformar tu cámara web en un lienzo interactivo. A través del seguimiento de objetos por color en tiempo real, permite al usuario "pintar" en el aire y ver los resultados reflejados instantáneamente en la pantalla.
+
+https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmF6MW5ibWxobHd1eWJsa3IzOHM5ZXpnM3Q0bGtsOGt3amh2NXZvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vvxP56uvS9S6ADC2BH/giphy.gif
 
 🌟 Características Destacadas
 Detección Multicolores: Configurado para detectar y dibujar con 4 colores distintos simultáneamente (Naranja, Morado, Verde y Azul).
@@ -59,6 +61,4 @@ area > 500: Aumenta este valor si hay mucho ruido en tu entorno o disminúyelo p
 cv2.circle(..., 10, ...): Cambia el número 10 para hacer el trazo más grueso o más delgado.
 
 Notas de autor
-Este proyecto es una excelente base para entender la manipulación de espacios de color y el manejo de flujos de video en OpenCV. ¡Las contribuciones son bienvenidas!
-
-Tip profesional: Si quieres que el repositorio se vea aún mejor, te recomiendo añadir un pequeño GIF en la parte superior mostrando cómo dibujas algo simple frente a la cámara. ¡Eso siempre captura la atención de inmediato!
+¡Las contribuciones son bienvenidas!
